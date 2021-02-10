@@ -1,0 +1,12 @@
+{
+  "name": "manga",
+  "displayName": "manga",
+  "expo": {
+    "name": "manga",
+    "slug": "manga",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
